@@ -16,7 +16,7 @@ To access this project on your local files, you can clone it using these steps
 1. Open your terminal
 2. Use this command to clone 
 ```
-$ git clonehttps://cyruswere.github.io/Delani_studios/
+$ git clonehttps://github.com/cyruswere/pizza_palour.git
 ```
 3. This will clone the repositoty into your local folder
  __Enjoy :)__
