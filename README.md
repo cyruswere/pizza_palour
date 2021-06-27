@@ -4,7 +4,7 @@
 CYRUS SETH WERE
 
 ### Project Description
-The website entails more information about the restaurant, their menu and prices
+This is a web UI for a Pizza Shop, where my business seeks to expand its customer base by implementing deliveries
 
 ### Prerequisities
 You need to have git installed
