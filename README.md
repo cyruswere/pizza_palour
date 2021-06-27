@@ -28,7 +28,7 @@ $ git clonehttps://github.com/cyruswere/pizza_palour.git
 4. JAVASCRIPT
 5. BOOTSRAP
 ### Live Site
-View [Live] (https://cyruswere.github.io/Akan-names/)
+View [Live] (https://cyruswere.github.io/pizza_palour/)
 
 ### Licence
 This project is under the  [MIT](LICENSE) licence.
